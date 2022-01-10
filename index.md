@@ -1,10 +1,7 @@
 > # Simple living, high thinking 
 
-## Aman jain
-(shortAman.jpg)
-# ![IMG_20210626_125658_860](https://user-images.githubusercontent.com/96813003/148642248-aba40013-4000-4cab-b788-b8b47d39b7ea.jpg)
-[My Resume](Resume.md)
-
+## Aman Jain
+![Sicherung vorbereiten](/img/shortAman.jpg)
 
 You can use the [editor on GitHub](https://github.com/amanjain1988/amanjain1988.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
