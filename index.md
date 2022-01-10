@@ -1,4 +1,4 @@
-> # Simple living, high thinking 
+> # Simple Living, High Thinking 
 
 ## Aman Jain
 ![Sicherung vorbereiten](/img/shortAman.jpg)
