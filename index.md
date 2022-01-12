@@ -34,15 +34,14 @@ Currently Working on Real Estate Busniess Company
   **<h1>EDUCTION</h1>
 <p>Jwaharlal Nehur Pg College / Bhopal Madhya Pardesh.</p>
  ## MAster of Computer And Management [M.C.M]  April2009 To 2011</p>
-Start tag	Element content	End tag
-<h1>	My First Heading	</h1>
-<p>	My first paragraph.	</p>
+<p>Unique College OF Bhopal .</p>
+ ## B.com With Computer  April 2006 To 2009</p>
+ <p>Falcon Chist Publice School, M.P Board/ Bhopal</p>
+ ## High Secondary (12th) April 2005 To 2006 </p>
 
-  <p>Jwaharlal Nehur Pg College / Bhopal Madhya Pardesh.</p>
- ## MAster of Computer And Management [M.C.M]  April2009 To 2011
-  # Unique College of Excellence / Bhopal Madhya Pardesh 
-  ## B.com With Computers                April 2006 to 2009
-  # Falcon Chist Publice School, M.P Board    / Bhopal 
-  ## High Secondary (12th)               April 2005 To 2006
+
+ 
+ 
+
   
   
