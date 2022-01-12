@@ -39,8 +39,8 @@ Currently Working on Real Estate Busniess Company
  <p>Falcon Chist Publice School, M.P Board/ Bhopal</p>
  ## High Secondary (12th) April 2005 To 2006 
   
-  <a href="https:file:///C:/Users/HP/Downloads/Aman_Jain_Resume-converted-22%20(2).pdf</a>
-
+<h1 style="color:tomato;">Contact</h1>
+<p style=color:Tomato;">Mobile 7999689475...</p>
 
  
  
