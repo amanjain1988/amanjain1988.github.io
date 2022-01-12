@@ -23,9 +23,9 @@ Syntax highlighted code block
 <h1>Work Experiences</h1>
 <p>I Have Expeirences Around 9.5 Year in Multiple Stream.</p>
 Currently Working on Real Estate Busniess Company
->LANGUAGE<
+  <h1>LANGUAGE</h1>
 ## Hindi ,English
->Skills<
+<p>Skills</p>
 ## Good knowledge of CRM Tool And BPO Support 
 ## Problem Solving
 ## Responsibility
