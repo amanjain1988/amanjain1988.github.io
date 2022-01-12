@@ -32,7 +32,7 @@ Currently Working on Real Estate Busniess Company
 ## Busniess Development 
 ## Analysis Software ,Testing   
   <h1>Education</h1>
-  # Jwaharlal Nehur Pg College / Bhopal Madhya Pardesh
+  <Jwaharlal Nehur Pg College / Bhopal Madhya Pardesh>/title>
  ## MAster of Computer And Management [M.C.M]  April2009 To 2011
   # Unique College of Excellence / Bhopal Madhya Pardesh 
   ## B.com With Computers                April 2006 to 2009
