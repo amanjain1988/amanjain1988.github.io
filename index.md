@@ -25,7 +25,7 @@ Syntax highlighted code block
 Currently Working on Real Estate Busniess Company
   <h1>LANGUAGE</h1>
 ## Hindi ,English
-<p>Skills</p>
+<h1>Skills</h1>
 ## Good knowledge of CRM Tool And BPO Support 
 ## Problem Solving
 ## Responsibility
