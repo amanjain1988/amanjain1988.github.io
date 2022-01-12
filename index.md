@@ -40,7 +40,7 @@ Currently Working on Real Estate Busniess Company
  ## High Secondary (12th) April 2005 To 2006 
   
 <h1 style="color:tomato;">Contact</h1>
-<p style=color:Tomato;">Mobile 7999689475...</p>
+<p>Mobile 7999689475...</p>
 
  
  
