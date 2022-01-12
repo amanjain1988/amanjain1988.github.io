@@ -32,6 +32,12 @@ Currently Working on Real Estate Busniess Company
 ## Busniess Development 
 ## Analysis Software ,Testing   
   <h1>Education</h1>
+  **<h1>EDUCTION</h1>
+<p>My first paragraph.</p>
+Start tag	Element content	End tag
+<h1>	My First Heading	</h1>
+<p>	My first paragraph.	</p>
+
   <p>Jwaharlal Nehur Pg College / Bhopal Madhya Pardesh.</p>
  ## MAster of Computer And Management [M.C.M]  April2009 To 2011
   # Unique College of Excellence / Bhopal Madhya Pardesh 
