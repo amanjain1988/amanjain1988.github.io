@@ -1,7 +1,7 @@
 > # Simple Living, High Thinking 
 
 ## Aman Jain
-![Sicherung vorbereiten](/img/shortAman.jpg)
+!(/"C:\Users\HP\Downloads\Screenshot_2021-04-10-09-22-08-202_com.facebook.lite.jpg")
 
 You can use the [editor on GitHub](https://github.com/amanjain1988/amanjain1988.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
