@@ -41,7 +41,7 @@ Currently Working on Real Estate Busniess Company
   
 <h1 style="color:tomato;">Contact</h1>
 <p>Mobile 7999689475...</p>
-
+  <p>Email amanjain6388@gmail.com</p>
  
  
 
