@@ -9,7 +9,7 @@ Aman Jain
 </head>
 <body>
 
-<h1>Work Experiences</h1>
+<Work Experiences</h1>
 <p>I Have Expeirences Around 9.5 Year in Multiple Stream.</p>
 Currently Working on Real Estate Busniess Company
   <h1>LANGUAGE</h1>
