@@ -3,13 +3,6 @@
 Aman Jain
 ![WhatsApp Image 2021-12-30 at 12 11 34 PM](https://user-images.githubusercontent.com/96813003/151762613-2a7b6b7d-8ec0-40d5-b7b7-5d1598d6e237.jpeg)
 
-
-
-
-
-```markdown
-Syntax highlighted code block
-<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -38,6 +31,7 @@ Busniess Development
   <p>Playing chess , Making news Friends ,listen musice 
 <h1 style="color:tomato;">Contact</h1>
 <p>Mobile 7999689475.</p>
+  <p> Alt 8109644870
   <p>Email amanjain6388@gmail.com</p>
   
 <h1 style="color:orange;">Address</h1> 
