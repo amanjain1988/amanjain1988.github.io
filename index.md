@@ -19,7 +19,7 @@ Skills
  Problem Solving,
  Responsibility,
 Busniess Development 
- Analysis Software ,Testing   
+ Analysis Software,Testing . 
  <h1> EDUCTION </h1>
  Jawaharlal Nehur Pg College/ Bhopal Madhya Pardesh.
  MAster of Computer And Management [M.C.M]  April 2009 To 2011
@@ -33,7 +33,6 @@ Busniess Development
 <p>Mobile 7999689475.</p>
   <p> Alt 8109644870
   <p>Email amanjain6388@gmail.com</p>
-  
 <h1 style="color:orange;">Address</h1> 
  <p>15/16 MaliPura Peer gate Bhopal .</p>
 
