@@ -9,10 +9,10 @@ Aman Jain
 </head>
 <body>
 
-Work Experiences
+<Work Experiences>
 I Have Expeirences Around 9.5 Year in Multiple Stream.
 Currently Working on Real Estate Busniess Company
-LANGUAGE
+<LANGUAGE>
 Hindi ,English
 Skills
  Good knowledge of CRM Tool And BPO Support 
