@@ -4,13 +4,8 @@ Aman Jain
 ![WhatsApp Image 2021-12-30 at 12 11 34 PM](https://user-images.githubusercontent.com/96813003/151762613-2a7b6b7d-8ec0-40d5-b7b7-5d1598d6e237.jpeg)
 
 
-You can use the [editor on GitHub](https://github.com/amanjain1988/amanjain1988.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
