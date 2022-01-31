@@ -20,7 +20,7 @@ Skills
  Responsibility,
 Busniess Development 
  Analysis Software ,Testing   
- EDUCTION
+ <h1> EDUCTION </h1>
  Jawaharlal Nehur Pg College/ Bhopal Madhya Pardesh.
  MAster of Computer And Management [M.C.M]  April 2009 To 2011
 <p>Unique College OF Bhopal .</p>
