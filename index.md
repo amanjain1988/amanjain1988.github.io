@@ -1,7 +1,7 @@
 > # Simple Living, High Thinking 
 
 ## Aman Jain
-![Screenshot_2021-04-10-09-22-08-202_com facebook lite](https://user-images.githubusercontent.com/96813003/149121497-5fdb7604-8889-4313-903a-89051194f87c.jpg)
+![WhatsApp Image 2021-12-30 at 12 11 34 PM](https://user-images.githubusercontent.com/96813003/151762613-2a7b6b7d-8ec0-40d5-b7b7-5d1598d6e237.jpeg)
 
 
 You can use the [editor on GitHub](https://github.com/amanjain1988/amanjain1988.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -27,11 +27,11 @@ Currently Working on Real Estate Busniess Company
   <h1>LANGUAGE</h1>
 ## Hindi ,English
 <h1>Skills</h1>
-## Good knowledge of CRM Tool And BPO Support 
-## Problem Solving
-## Responsibility
-## Busniess Development 
-## Analysis Software ,Testing   
+ Good knowledge of CRM Tool And BPO Support 
+ Problem Solving
+ Responsibility
+Busniess Development 
+ Analysis Software ,Testing   
   **<h1>EDUCTION</h1>
 <p>Jwaharlal Nehur Pg College / Bhopal Madhya Pardesh.</p>
  ## MAster of Computer And Management [M.C.M]  April2009 To 2011
