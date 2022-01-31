@@ -9,20 +9,20 @@ Aman Jain
 </head>
 <body>
 
-<Work Experiences</h1>
-<p>I Have Expeirences Around 9.5 Year in Multiple Stream.</p>
+Work Experiences
+I Have Expeirences Around 9.5 Year in Multiple Stream.
 Currently Working on Real Estate Busniess Company
-  <h1>LANGUAGE</h1>
+LANGUAGE
 Hindi ,English
-<h1>Skills</h1>
+Skills
  Good knowledge of CRM Tool And BPO Support 
  Problem Solving,
  Responsibility,
 Busniess Development 
  Analysis Software ,Testing   
-  **<h1>EDUCTION</h1>
-<p>Jwaharlal Nehur Pg College / Bhopal Madhya Pardesh.</p>
- ## MAster of Computer And Management [M.C.M]  April 2009 To 2011
+ EDUCTION
+ Jawaharlal Nehur Pg College/ Bhopal Madhya Pardesh.
+ MAster of Computer And Management [M.C.M]  April 2009 To 2011
 <p>Unique College OF Bhopal .</p>
   B.com With Computer  April 2006 To 2009
  <p>Falcon Chist Publice School, M.P Board/ Bhopal</p>
